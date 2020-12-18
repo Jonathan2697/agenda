@@ -1,0 +1,360 @@
+CRITICAL - 2020-12-17 00:08:13 --> Undefined index: Apaterno
+#0 /var/www/html/agenda/app/Controllers/Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 48, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:08:38 --> Undefined index: Apaterno
+#0 /var/www/html/agenda/app/Controllers/Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 48, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:09:43 --> Undefined index: Apaterno
+#0 /var/www/html/agenda/app/Controllers/Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 48, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:15:43 --> Undefined index: Apaterno
+#0 /var/www/html/agenda/app/Controllers/Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 48, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:17:34 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 45, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:19:16 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 45, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:21:19 --> Undefined index: id_contacto
+#0 /var/www/html/agenda/app/Controllers/Home.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 45, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:25:08 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 45, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:33:58 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:35:02 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:40:46 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:41:32 --> Undefined index: Apaterno
+#0 /var/www/html/agenda/app/Controllers/Home.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 38, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:42:34 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:43:41 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:47:06 --> Undefined variable: datos
+#0 /var/www/html/agenda/app/Views/contacto.php(116): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/html/a...', 116, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/View/View.php(246): include('/var/www/html/a...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('contacto', Array, true)
+#3 /var/www/html/agenda/app/Controllers/Home.php(28): view('contacto', Array)
+#4 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->contacto()
+#5 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 18:47:45 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:48:32 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:49:36 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:50:12 --> Undefined index: Apaterno
+#0 /var/www/html/agenda/app/Controllers/Home.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 38, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:51:03 --> Undefined index: tel
+#0 /var/www/html/agenda/app/Controllers/Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 40, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:51:39 --> Unknown column 'id_categoria' in 'field list'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(48): App\Models\usuario->insertar(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 18:52:51 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 18:59:32 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Views/contacto.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 63, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/View/View.php(246): include('/var/www/html/a...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('contacto', Array, true)
+#3 /var/www/html/agenda/app/Controllers/Home.php(28): view('contacto', Array)
+#4 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->contacto()
+#5 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:02:03 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 19:05:46 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 19:06:24 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 19:06:56 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 19:07:42 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 19:12:48 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 19:13:20 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 19:24:19 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(67): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 22:14:23 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:14:57 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(59): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 22:26:00 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 36, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:26:37 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(59): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 22:28:31 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(59): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(138): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-17 22:32:33 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 34, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:36:17 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 34, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:36:49 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 34, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:43:30 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 30, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:55:12 --> Undefined index: id_categorias
+#0 /var/www/html/agenda/app/Controllers/Home.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/html/a...', 30, Array)
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear()
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-17 22:55:38 --> Duplicate entry '0' for key 'PRIMARY'
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(331): mysqli->query('INSERT INTO `t_...')
+#1 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 /var/www/html/agenda/app/Models/usuario.php(58): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /var/www/html/agenda/app/Controllers/Home.php(132): App\Models\usuario->insertar1(Array)
+#6 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->crear1()
+#7 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

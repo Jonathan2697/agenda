@@ -1,0 +1,509 @@
+CRITICAL - 2020-12-13 14:16:25 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:17:09 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:17:39 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:18:56 --> Undefined index: 	descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:21:08 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:22:06 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:22:18 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:23:17 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:24:26 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 149, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:27:53 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 152, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:28:57 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 152, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:29:19 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 152, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:31:06 --> Undefined index: id_categoria
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 150, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 14:32:37 --> Undefined index: descripcion
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 152, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->crear1()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 17:57:56 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#1 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-13 18:25:34 --> Invalid file: actualizar.php
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('actualizar.php')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(225): view('actualizar', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->obtenerdatos1('6')
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 19:17:13 --> Undefined variable: result
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 19:29:08 --> Undefined variable: result
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(137): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 137, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 19:30:56 --> Undefined variable: result
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(137): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 137, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 19:30:57 --> Undefined variable: result
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(137): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 137, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 19:37:25 --> Class 'conectar' not found
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 19:39:39 --> Class 'conexion' not found
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 19:39:40 --> Class 'conexion' not found
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 19:40:24 --> Class 'conectar' not found
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 19:40:24 --> Class 'conectar' not found
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 20:30:56 --> Invalid file: actualizar.php
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('actualizar.php')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#2 C:\xampp\htdocs\agenda\app\Controllers\Home.php(225): view('actualizar', Array)
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->obtenerdatos1('6')
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-13 21:47:59 --> CodeIgniter\View\View::main(): Failed opening required '../Conexion1.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-13 21:48:11 --> Non-static method Conectar::conexion() should not be called statically
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 21:48:12 --> Non-static method Conectar::conexion() should not be called statically
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 21:49:27 --> Non-static method Conectar::conexion() should not be called statically
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 21:49:28 --> Non-static method Conectar::conexion() should not be called statically
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 21:49:29 --> Non-static method Conectar::conexion() should not be called statically
+#0 C:\xampp\htdocs\agenda\app\Views\categoria.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('categoria', Array, true)
+#3 C:\xampp\htdocs\agenda\app\Controllers\Home.php(143): view('categoria', Array)
+#4 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index2()
+#5 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-13 22:53:12 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(88): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 22:54:20 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(88): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 22:54:34 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(88): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '6')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 22:54:55 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(88): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '6')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 22:56:31 --> Unknown column 't_categoria' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(88): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '6')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 22:56:43 --> Unknown column 't_categoria' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(88): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:05:42 --> Undefined index: id_contacto
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 90, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:07:12 --> Undefined index: id_contacto
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 90, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:07:59 --> Undefined index: id_contacto
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 90, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:08:11 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:10:04 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:11:17 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:11:40 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:12:01 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:13:24 --> Unknown column 't_categoria' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(82): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '6')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:14:05 --> Unknown column 't_categoria' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(82): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '6')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:14:21 --> Unknown column 't_categoria' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_categ...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_categ...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_categ...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_categ...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(82): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(208): App\Models\usuario->actualizar1(Array, '6')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar1()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:16:07 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:17:56 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:18:10 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:19:28 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:19:53 --> Undefined index: materno
+#0 C:\xampp\htdocs\agenda\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-13 23:20:04 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_agend...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_agend...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_agend...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_agend...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(36): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(107): App\Models\usuario->actualizar(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:21:45 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_agend...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_agend...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_agend...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_agend...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(36): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(107): App\Models\usuario->actualizar(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:22:06 --> Unknown column 't_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_agend...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_agend...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_agend...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_agend...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(36): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(107): App\Models\usuario->actualizar(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-13 23:28:47 --> Unknown column 'id_agenda' in 'where clause'
+#0 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `t_agend...')
+#1 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `t_agend...')
+#2 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `t_agend...')
+#3 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `t_agend...', Array, false)
+#4 C:\xampp\htdocs\agenda\app\Models\usuario.php(36): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\agenda\app\Controllers\Home.php(107): App\Models\usuario->actualizar(Array, '8')
+#6 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->actualizar()
+#7 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\agenda\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\agenda\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

@@ -1,0 +1,36 @@
+CRITICAL - 2020-12-15 22:27:10 --> Unable to connect to the database.
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/agenda/app/Models/usuario.php(14): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 /var/www/html/agenda/app/Controllers/Home.php(19): App\Models\usuario->listarnombres()
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->contacto()
+#4 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-15 22:27:16 --> Unable to connect to the database.
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/agenda/app/Models/usuario.php(58): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 /var/www/html/agenda/app/Controllers/Home.php(136): App\Models\usuario->listarnombres1()
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-15 23:29:53 --> Unable to connect to the database.
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/agenda/app/Models/usuario.php(14): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 /var/www/html/agenda/app/Controllers/Home.php(19): App\Models\usuario->listarnombres()
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->contacto()
+#4 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-15 23:29:58 --> Unable to connect to the database.
+#0 /var/www/html/agenda/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/agenda/app/Models/usuario.php(58): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#2 /var/www/html/agenda/app/Controllers/Home.php(136): App\Models\usuario->listarnombres1()
+#3 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Home->index2()
+#4 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/html/agenda/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/agenda/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
